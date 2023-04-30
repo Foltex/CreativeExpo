@@ -116,7 +116,7 @@ body {
 }
 
 .hero .content h1 span {
-    color: var(--primary);
+    color: #fff;
 }
 
 .hero .content p {
